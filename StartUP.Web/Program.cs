@@ -20,6 +20,9 @@ namespace StartUP.Web
             });
             builder.Services.AddScoped<IUserRepo, UserRepo>();
             builder.Services.AddScoped<IUserServicecs, UserService>();
+            builder.Services.AddScoped<ISuccessStoryRepository, SuccessStoryRepository>();
+            builder.Services.AddScoped<ISuccessStoryService, SuccessStoryService>();
+
 
 
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

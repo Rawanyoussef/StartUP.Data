@@ -10,3 +10,16 @@ C:\Users\RCSC\Desktop\StartUP.Data-master\StartUP.Data\obj\Debug\net8.0\StartUP.
 C:\Users\RCSC\Desktop\StartUP.Data-master\StartUP.Data\obj\Debug\net8.0\refint\StartUP.Data.dll
 C:\Users\RCSC\Desktop\StartUP.Data-master\StartUP.Data\obj\Debug\net8.0\StartUP.Data.pdb
 C:\Users\RCSC\Desktop\StartUP.Data-master\StartUP.Data\obj\Debug\net8.0\ref\StartUP.Data.dll
+C:\API\StartUP.Data\bin\Debug\net8.0\StartUP.Data.deps.json
+C:\API\StartUP.Data\bin\Debug\net8.0\StartUP.Data.dll
+C:\API\StartUP.Data\bin\Debug\net8.0\StartUP.Data.pdb
+C:\API\StartUP.Data\obj\Debug\net8.0\StartUP.Data.csproj.AssemblyReference.cache
+C:\API\StartUP.Data\obj\Debug\net8.0\StartUP.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\API\StartUP.Data\obj\Debug\net8.0\StartUP.Data.AssemblyInfoInputs.cache
+C:\API\StartUP.Data\obj\Debug\net8.0\StartUP.Data.AssemblyInfo.cs
+C:\API\StartUP.Data\obj\Debug\net8.0\StartUP.Data.csproj.CoreCompileInputs.cache
+C:\API\StartUP.Data\obj\Debug\net8.0\StartUP.Data.sourcelink.json
+C:\API\StartUP.Data\obj\Debug\net8.0\StartUP.Data.dll
+C:\API\StartUP.Data\obj\Debug\net8.0\refint\StartUP.Data.dll
+C:\API\StartUP.Data\obj\Debug\net8.0\StartUP.Data.pdb
+C:\API\StartUP.Data\obj\Debug\net8.0\ref\StartUP.Data.dll

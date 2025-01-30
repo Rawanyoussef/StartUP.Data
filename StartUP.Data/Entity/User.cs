@@ -22,6 +22,7 @@ namespace StartUP.Data.Entity
         public int SSN { get; set; }
         public string Image { get; set; } = string.Empty;
 
+        public ICollection<SuccessStory> SuccessStories { get; set; } = new List<SuccessStory>();
 
 
 
