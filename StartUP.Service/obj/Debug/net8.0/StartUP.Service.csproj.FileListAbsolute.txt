@@ -1,0 +1,17 @@
+C:\Users\RCSC\Desktop\StartUP.Data-master\StartUP.Service\bin\Debug\net8.0\StartUP.Service.deps.json
+C:\Users\RCSC\Desktop\StartUP.Data-master\StartUP.Service\bin\Debug\net8.0\StartUP.Service.dll
+C:\Users\RCSC\Desktop\StartUP.Data-master\StartUP.Service\bin\Debug\net8.0\StartUP.Service.pdb
+C:\Users\RCSC\Desktop\StartUP.Data-master\StartUP.Service\bin\Debug\net8.0\StartUP.Data.dll
+C:\Users\RCSC\Desktop\StartUP.Data-master\StartUP.Service\bin\Debug\net8.0\StartUP.Repository.dll
+C:\Users\RCSC\Desktop\StartUP.Data-master\StartUP.Service\bin\Debug\net8.0\StartUP.Repository.pdb
+C:\Users\RCSC\Desktop\StartUP.Data-master\StartUP.Service\bin\Debug\net8.0\StartUP.Data.pdb
+C:\Users\RCSC\Desktop\StartUP.Data-master\StartUP.Service\obj\Debug\net8.0\StartUP.Service.csproj.AssemblyReference.cache
+C:\Users\RCSC\Desktop\StartUP.Data-master\StartUP.Service\obj\Debug\net8.0\StartUP.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RCSC\Desktop\StartUP.Data-master\StartUP.Service\obj\Debug\net8.0\StartUP.Service.AssemblyInfoInputs.cache
+C:\Users\RCSC\Desktop\StartUP.Data-master\StartUP.Service\obj\Debug\net8.0\StartUP.Service.AssemblyInfo.cs
+C:\Users\RCSC\Desktop\StartUP.Data-master\StartUP.Service\obj\Debug\net8.0\StartUP.Service.csproj.CoreCompileInputs.cache
+C:\Users\RCSC\Desktop\StartUP.Data-master\StartUP.Service\obj\Debug\net8.0\StartUP..9F5B804C.Up2Date
+C:\Users\RCSC\Desktop\StartUP.Data-master\StartUP.Service\obj\Debug\net8.0\StartUP.Service.dll
+C:\Users\RCSC\Desktop\StartUP.Data-master\StartUP.Service\obj\Debug\net8.0\refint\StartUP.Service.dll
+C:\Users\RCSC\Desktop\StartUP.Data-master\StartUP.Service\obj\Debug\net8.0\StartUP.Service.pdb
+C:\Users\RCSC\Desktop\StartUP.Data-master\StartUP.Service\obj\Debug\net8.0\ref\StartUP.Service.dll

@@ -9,7 +9,7 @@ namespace StartUP.Service.UserService
 {
     public class UserDto
     {
-        public string Id { get; set; }
+        public string UserName { get; set; }
 
         public string Name { get; set; }
         [Required]
@@ -22,5 +22,6 @@ namespace StartUP.Service.UserService
         public string PhoneNumber { get; set; }
         public int Age { get; set; }
         public int SSN { get; set; }
+        public string Image { get; set; }
     }
 }
