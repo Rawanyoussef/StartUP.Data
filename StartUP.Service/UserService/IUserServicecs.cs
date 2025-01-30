@@ -10,6 +10,7 @@ namespace StartUP.Service.UserService
     public interface IUserServicecs
     {
         Task<bool> RegisterUserAsync(UserDto userDto);
+       
 
     }
 }

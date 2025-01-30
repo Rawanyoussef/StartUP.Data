@@ -17,18 +17,29 @@ namespace StartUP.Service.UserService
             var existingUser = await _userRepo.GetUserByEmailAsync(userDto.Email);
             if (existingUser != null)
             {
-                return false;  
+                return false;
             }
 
             var user = new User
             {
                 Name = userDto.Name,
+                UserName = userDto.UserName,
                 Email = userDto.Email,
-                Password = userDto.Password 
+                Password = userDto.Password,
+                SSN = userDto.SSN,
+                Age = userDto.Age,
+                Image = userDto.Image,
+                PhoneNumber = userDto.PhoneNumber,
+                Role = userDto.Role
             };
+
 
             await _userRepo.AddUserAsync(user);
             return true;
         }
+
+
+
+      
     }
 }
